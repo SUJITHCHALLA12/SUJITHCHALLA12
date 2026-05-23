@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sujith Challa 👋</h1>
+<h1 align="center">Hey, I'm Sujith Kumar Challa 👋</h1>
 
 <p align="center">
   <b>B.Tech CSE Student &nbsp;•&nbsp; Full-Stack Developer &nbsp;•&nbsp; Android Developer &nbsp;•&nbsp; Linux & Cybersecurity Enthusiast</b><br/>
