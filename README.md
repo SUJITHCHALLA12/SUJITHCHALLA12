@@ -90,6 +90,19 @@ Worked on real-world development tasks, improving practical programming and proj
 
 ---
 
+### 🛡️ [Linux-Hackers LAB](https://linuxhackers-lab.vercel.app/)
+> AI-powered Kali Linux tool guide and cybersecurity learning platform
+
+- 🔍 **600+ Kali Linux tools** — Searchable reference across all major pentesting categories
+- 🤖 Integrated **AI Assistant** for instant tool explanations and command walkthroughs
+- 📋 Built-in **Wordlist Generator** for CTFs and security testing
+- 🎯 Beginner-friendly design with structured learning flow
+- ⚡ Deployed on Vercel for fast, zero-install access
+
+`HTML` `CSS` `JavaScript` `AI API` `Vercel`
+
+---
+
 ### 🐧 Linux Command Reference Website
 > Beginner-friendly Linux command cheat sheet and quick-reference terminal guide
 
