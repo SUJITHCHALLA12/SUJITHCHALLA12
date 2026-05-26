@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sujith Kumar Challa 👋</h1>
+<h1 align="center">Hey, I'm Sujith Challa 👋</h1>
 
 <p align="center">
   <b>B.Tech CSE Student &nbsp;•&nbsp; Full-Stack Developer &nbsp;•&nbsp; Android Developer &nbsp;•&nbsp; Linux & Cybersecurity Enthusiast</b><br/>
@@ -87,6 +87,19 @@ Worked on real-world development tasks, improving practical programming and proj
 - ⚙️ Practical command-based functionality
 
 `Java` `Android Studio` `XML` `Android SDK`
+
+---
+
+### 🛡️ [Linux-Hackers LAB](https://linuxhackers-lab.vercel.app/)
+> AI-powered Kali Linux tool guide and cybersecurity learning platform
+
+- 🔍 **600+ Kali Linux tools** — Searchable reference across all major pentesting categories
+- 🤖 Integrated **AI Assistant** for instant tool explanations and command walkthroughs
+- 📋 Built-in **Wordlist Generator** for CTFs and security testing
+- 🎯 Beginner-friendly design with structured learning flow
+- ⚡ Deployed on Vercel for fast, zero-install access
+
+`HTML` `CSS` `JavaScript` `AI API` `Vercel`
 
 ---
 
